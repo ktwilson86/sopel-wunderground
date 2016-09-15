@@ -5,7 +5,7 @@ Requires Weather Underground API key available here: https://www.wunderground.co
 
 SETUP
 
-Paste your own personal API key into this line of wunder.py:
+Paste your own personal API key inside the quotes of this line in wunder.py:
 apikey = ''
 
 Copy wunder.py into the modules sub-directory of your sopel install.
