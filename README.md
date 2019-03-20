@@ -3,7 +3,7 @@ Drop-in replacement for sopel weather module using Weather Underground instead o
 
 Requires Weather Underground API key available here: https://www.wunderground.com/weather/api/
 
-## Weather Underground API has been discontinued, this project will not receive updates and is now unusable. Please find an alternative weather provider such as the built-in Yahoo weather module for sopel.
+## Weather Underground API has been discontinued, this project will not receive updates and is now unusable. If you'd like an alternative you can try [sopel-darksky](https://github.com/ktwilson86/sopel-darksky)
 
 SETUP
 
